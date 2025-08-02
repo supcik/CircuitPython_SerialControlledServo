@@ -1,8 +1,8 @@
 Introduction
 ============
 
-.. image:: https://readthedocs.org/projects/circuitpython-sc-servo/badge/?version=latest
-    :target: https://circuitpython-sc-servo.readthedocs.io/
+.. image:: https://readthedocs.org/projects/circuitpython-serial-controlled-servo/badge/?version=latest
+    :target: https://circuitpython-serial-controlled-servo.readthedocs.io/
     :alt: Documentation Status
 
 
@@ -114,7 +114,7 @@ Usage Example
 Documentation
 =============
 
-API documentation for this library can be found on `Read the Docs <https://circuitpython-sc-servo.readthedocs.io/>`_.
+API documentation for this library can be found on `Read the Docs <https://circuitpython-serial-controlled-servo.readthedocs.io/>`_.
 
 For information on building library documentation, please check out
 `this guide <https://learn.adafruit.com/creating-and-sharing-a-circuitpython-library/sharing-our-docs-on-readthedocs#sphinx-5-1>`_.
