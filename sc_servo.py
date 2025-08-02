@@ -24,7 +24,7 @@ Implementation Notes
 """
 
 __version__ = "0.0.0+auto.0"
-__repo__ = "https://github.com/supcik/CircuitPython_SerialServo.git"
+__repo__ = "https://github.com/supcik/CircuitPython_SerialControlledServo.git"
 
 
 import binascii

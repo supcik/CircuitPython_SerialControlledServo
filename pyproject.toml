@@ -10,7 +10,7 @@ description = "CircuitPython library for Serial Servo Bus (UART)"
 version = "0.0.0+auto.0"
 readme = "README.rst"
 authors = [{ name = "Jacques Supcik", email = "jacques.supcik@hefr.ch" }]
-urls = { Homepage = "https://github.com/supcik/CircuitPython_SerialServo" }
+urls = { Homepage = "https://github.com/supcik/CircuitPython_SerialControlledServo" }
 keywords = [
     "adafruit",
     "blinka",
