@@ -79,7 +79,7 @@ following command to install:
 
 .. code-block:: shell
 
-    circup install circuitpython_serial_servo
+    circup install circuitpython_sc_servo
 
 Or the following command to update an existing version:
 
