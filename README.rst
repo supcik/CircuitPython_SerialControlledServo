@@ -42,7 +42,7 @@ Installing from PyPI
    as a standard element. Stay tuned for PyPI availability!
 
 On supported GNU/Linux systems like the Raspberry Pi, you can install the driver locally `from
-PyPI <https://pypi.org/project/CircuitPython-sc_servo/>`_.
+PyPI <https://pypi.org/project/circuitpython-serial-controlled-servo/>`_.
 To install for current user:
 
 .. code-block:: shell
